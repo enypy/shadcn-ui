@@ -10,8 +10,8 @@ function App() {
 
   return (
     <>
-      <div className="mx-[20%]">
-        <h1 className="croll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl uppercase mt-5">Iste ipsum corrupti laborum <br /> pariatur</h1>
+      <div className="mx-[20%] my-5">
+        <h1 className="croll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl uppercase">Iste ipsum corrupti laborum <br /> pariatur</h1>
         <p className="text-gray-500 mt-5">Ut deserunt vel et praesentium tenetur doloribus iure itaque tempore, cupiditate distinctio.</p>
         <Tabs className="mt-5">
           <TabsList defaultValue="webdev" className="bg-gray-100 rounded-full p-0 text-gray-400">
