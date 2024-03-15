@@ -50,6 +50,10 @@ const config = {
           foreground: "hsl(var(--card-foreground))",
         },
       },
+      backgroundImage: {
+        'figma': "url(src/assets/images/figma.jpg)",
+        'phone': "url(src/assets/images/phone.jpg)",
+      },
       borderRadius: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
